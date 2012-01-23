@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/so
+END
+ISharedObjectHandlerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/so/ISharedObjectHandlerProvider.java
+END
+ISharedObjectSecurityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/so/ISharedObjectSecurityService.java
+END
+ISharedObjectBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/so/ISharedObjectBase.java
+END
+IClientSharedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/so/IClientSharedObject.java
+END
+ISharedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/so/ISharedObject.java
+END
+ISharedObjectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/so/ISharedObjectService.java
+END
+ISharedObjectListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/so/ISharedObjectListener.java
+END
+ISharedObjectSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/so/ISharedObjectSecurity.java
+END

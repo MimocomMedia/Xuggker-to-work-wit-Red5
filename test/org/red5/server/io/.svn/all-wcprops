@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4300/java/server/trunk/test/org/red5/server/io
+END
+MetaDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/MetaDataTest.java
+END
+SimpleJavaBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/SimpleJavaBean.java
+END
+MockIOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/MockIOTest.java
+END
+MetaDataInjectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/MetaDataInjectionTest.java
+END
+TestVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/TestVO.java
+END
+TestJavaBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/TestJavaBean.java
+END
+CircularRefBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/CircularRefBean.java
+END
+MetaServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/MetaServiceTest.java
+END
+CuePointInjectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/CuePointInjectionTest.java
+END
+FLVServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/FLVServiceImplTest.java
+END
+AMFIOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/AMFIOTest.java
+END
+AbstractIOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/AbstractIOTest.java
+END
+FLVImpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/io/FLVImpTest.java
+END
+AMF3IOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4300/java/server/trunk/test/org/red5/server/io/AMF3IOTest.java
+END

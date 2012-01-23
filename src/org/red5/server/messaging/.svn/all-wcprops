@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging
+END
+ServiceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/ServiceAdapter.java
+END
+IProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/IProvider.java
+END
+IConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/IConsumer.java
+END
+IPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/IPipe.java
+END
+InMemoryPullPullPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/InMemoryPullPullPipe.java
+END
+AbstractMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/AbstractMessage.java
+END
+IMessageInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/IMessageInput.java
+END
+InMemoryPushPushPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/InMemoryPushPushPipe.java
+END
+PipeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/PipeUtils.java
+END
+IMessageOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4154/java/server/trunk/src/org/red5/server/messaging/IMessageOutput.java
+END
+PipeConnectionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/PipeConnectionEvent.java
+END
+IMessageComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/IMessageComponent.java
+END
+AbstractPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/AbstractPipe.java
+END
+IPassive.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/IPassive.java
+END
+IPullableProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/IPullableProvider.java
+END
+OOBControlMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/OOBControlMessage.java
+END
+IPushableConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/IPushableConsumer.java
+END
+IPipeConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/IPipeConnectionListener.java
+END
+IMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/IMessage.java
+END
+IFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/messaging/IFilter.java
+END

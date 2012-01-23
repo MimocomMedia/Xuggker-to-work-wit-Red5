@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/scheduling
+END
+QuartzSchedulingServiceJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/scheduling/QuartzSchedulingServiceJob.java
+END
+ApplicationSchedulingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/scheduling/ApplicationSchedulingService.java
+END
+QuartzSchedulingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/scheduling/QuartzSchedulingService.java
+END

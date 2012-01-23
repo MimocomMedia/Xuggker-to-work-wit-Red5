@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/midi
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/midi/Test.java
+END
+MidiPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/midi/MidiPlayer.java
+END
+SharedMidiObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/midi/SharedMidiObject.java
+END

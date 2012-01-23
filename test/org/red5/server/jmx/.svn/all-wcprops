@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/jmx
+END
+JMXFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/jmx/JMXFactoryTest.java
+END
+JMXFactoryTestMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/jmx/JMXFactoryTestMBean.java
+END
+JMXAgentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/jmx/JMXAgentTest.java
+END

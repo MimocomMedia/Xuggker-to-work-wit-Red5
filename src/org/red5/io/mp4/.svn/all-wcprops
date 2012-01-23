@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4299/java/server/trunk/src/org/red5/io/mp4
+END
+MP4Descriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4291/java/server/trunk/src/org/red5/io/mp4/MP4Descriptor.java
+END
+MP4Atom.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4297/java/server/trunk/src/org/red5/io/mp4/MP4Atom.java
+END
+MP4DataStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4292/java/server/trunk/src/org/red5/io/mp4/MP4DataStream.java
+END
+IMP4.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/mp4/IMP4.java
+END
+IMP4Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/mp4/IMP4Service.java
+END
+MP4Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/mp4/MP4Frame.java
+END

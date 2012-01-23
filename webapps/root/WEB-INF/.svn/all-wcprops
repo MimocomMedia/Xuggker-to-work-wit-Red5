@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3663/java/server/trunk/webapps/root/WEB-INF
+END
+red5-web.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3663/java/server/trunk/webapps/root/WEB-INF/red5-web.properties
+END
+red5-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2660/java/server/trunk/webapps/root/WEB-INF/red5-web.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3338/java/server/trunk/webapps/root/WEB-INF/web.xml
+END

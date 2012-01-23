@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/exception
+END
+ScopeHandlerNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/exception/ScopeHandlerNotFoundException.java
+END
+ClientRejectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/exception/ClientRejectedException.java
+END
+ClientDetailsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/exception/ClientDetailsException.java
+END
+StreamDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/exception/StreamDataException.java
+END
+ScopeNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/exception/ScopeNotFoundException.java
+END
+ScopeShuttingDownException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/exception/ScopeShuttingDownException.java
+END
+AccessDeniedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/exception/AccessDeniedException.java
+END
+ClientNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/exception/ClientNotFoundException.java
+END
+StreamControlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/exception/StreamControlException.java
+END
+SharedObjectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/exception/SharedObjectException.java
+END
+ServiceNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/exception/ServiceNotFoundException.java
+END

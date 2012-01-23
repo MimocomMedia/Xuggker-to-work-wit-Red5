@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4300/java/server/trunk/test
+END
+logback-selftest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3403/java/server/trunk/test/logback-selftest.xml
+END

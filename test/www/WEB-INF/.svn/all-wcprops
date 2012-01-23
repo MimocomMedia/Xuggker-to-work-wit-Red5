@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3403/java/server/trunk/test/www/WEB-INF
+END
+red5-web.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3140/java/server/trunk/test/www/WEB-INF/red5-web.properties
+END
+red5-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3347/java/server/trunk/test/www/WEB-INF/red5-web.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3403/java/server/trunk/test/www/WEB-INF/web.xml
+END

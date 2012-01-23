@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4269/java/server/trunk/src/org/slf4j/impl
+END
+LoggerContextSelectorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/slf4j/impl/LoggerContextSelectorProvider.java
+END
+StaticLoggerBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4269/java/server/trunk/src/org/slf4j/impl/StaticLoggerBinder.java
+END

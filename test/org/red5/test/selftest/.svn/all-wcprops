@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/test/selftest
+END
+ExternalizableClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/test/selftest/ExternalizableClass.java
+END
+RemoteClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/test/selftest/RemoteClass.java
+END
+EchoApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/test/selftest/EchoApplication.java
+END

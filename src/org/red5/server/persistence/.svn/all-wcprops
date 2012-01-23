@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/persistence
+END
+FilePersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/persistence/FilePersistence.java
+END
+RamPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/persistence/RamPersistence.java
+END
+FilePersistenceThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/persistence/FilePersistenceThread.java
+END

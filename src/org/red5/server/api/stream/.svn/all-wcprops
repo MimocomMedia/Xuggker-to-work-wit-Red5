@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4290/java/server/trunk/src/org/red5/server/api/stream
+END
+IStreamHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IStreamHandler.java
+END
+IStreamPlaybackSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IStreamPlaybackSecurity.java
+END
+IBroadcastStreamService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IBroadcastStreamService.java
+END
+ISubscriberStreamService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/ISubscriberStreamService.java
+END
+IPlaylistSubscriberStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IPlaylistSubscriberStream.java
+END
+IPlaylist.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IPlaylist.java
+END
+IStreamListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IStreamListener.java
+END
+IStreamFilenameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IStreamFilenameGenerator.java
+END
+IStreamSecurityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IStreamSecurityService.java
+END
+IStreamCodecInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IStreamCodecInfo.java
+END
+IStreamPublishSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IStreamPublishSecurity.java
+END
+ResourceNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/ResourceNotFoundException.java
+END
+IBroadcastStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IBroadcastStream.java
+END
+StreamState.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/StreamState.java
+END
+IStreamCapableConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IStreamCapableConnection.java
+END
+IPlayItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IPlayItem.java
+END
+IClientStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IClientStream.java
+END
+IStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IStream.java
+END
+OperationNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/OperationNotSupportedException.java
+END
+ISingleItemSubscriberStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/ISingleItemSubscriberStream.java
+END
+IOnDemandStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IOnDemandStream.java
+END
+IStreamAwareScopeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IStreamAwareScopeHandler.java
+END
+IPlaylistController.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IPlaylistController.java
+END
+IRtmpSampleAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IRtmpSampleAccess.java
+END
+ResourceExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/ResourceExistException.java
+END
+IAudioStreamCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IAudioStreamCodec.java
+END
+IStreamService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IStreamService.java
+END
+IClientBroadcastStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IClientBroadcastStream.java
+END
+ISubscriberStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/ISubscriberStream.java
+END
+IVideoStreamCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4290/java/server/trunk/src/org/red5/server/api/stream/IVideoStreamCodec.java
+END
+IOnDemandStreamService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IOnDemandStreamService.java
+END
+IServerStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IServerStream.java
+END
+IStreamPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/stream/IStreamPacket.java
+END

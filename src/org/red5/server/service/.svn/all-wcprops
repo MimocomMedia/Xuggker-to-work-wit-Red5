@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4289/java/server/trunk/src/org/red5/server/service
+END
+HandlerServiceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/service/HandlerServiceResolver.java
+END
+PendingCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4289/java/server/trunk/src/org/red5/server/service/PendingCall.java
+END
+ServiceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/service/ServiceUtils.java
+END
+ConversionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/service/ConversionUtils.java
+END
+ContextServiceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/service/ContextServiceResolver.java
+END
+NotAllowedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/service/NotAllowedException.java
+END
+IServiceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/service/IServiceResolver.java
+END
+Call.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4289/java/server/trunk/src/org/red5/server/service/Call.java
+END
+MethodNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/service/MethodNotFoundException.java
+END
+ScopeServiceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/service/ScopeServiceResolver.java
+END
+ServiceNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/service/ServiceNotFoundException.java
+END
+WarDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/service/WarDeployer.java
+END
+Installer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/service/Installer.java
+END
+ServiceInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4276/java/server/trunk/src/org/red5/server/service/ServiceInvoker.java
+END

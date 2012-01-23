@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/scheduling
+END
+ISchedulingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/scheduling/ISchedulingService.java
+END
+IScheduledJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/scheduling/IScheduledJob.java
+END

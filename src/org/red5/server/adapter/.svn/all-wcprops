@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/adapter
+END
+MultiThreadedApplicationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/adapter/MultiThreadedApplicationAdapter.java
+END
+ApplicationLifecycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/adapter/ApplicationLifecycle.java
+END
+ApplicationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/adapter/ApplicationAdapter.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/adapter/Config.java
+END
+StatefulScopeWrappingAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/adapter/StatefulScopeWrappingAdapter.java
+END
+IApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/adapter/IApplication.java
+END
+AbstractScopeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/adapter/AbstractScopeAdapter.java
+END

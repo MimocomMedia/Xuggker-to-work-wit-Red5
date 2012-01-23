@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmpt/codec
+END
+RTMPTProtocolEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmpt/codec/RTMPTProtocolEncoder.java
+END
+RTMPTCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmpt/codec/RTMPTCodecFactory.java
+END
+RTMPTProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmpt/codec/RTMPTProtocolDecoder.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4263/java/server/trunk/test/scripts
+END
+take-screenshot
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3474/java/server/trunk/test/scripts/take-screenshot
+END
+red5
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4263/java/server/trunk/test/scripts/red5
+END
+flash-player
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3474/java/server/trunk/test/scripts/flash-player
+END
+harvest-flashlog
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3474/java/server/trunk/test/scripts/harvest-flashlog
+END
+multitest
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3474/java/server/trunk/test/scripts/multitest
+END
+red5-flash-player-headless
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3474/java/server/trunk/test/scripts/red5-flash-player-headless
+END
+call-os-specific
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3474/java/server/trunk/test/scripts/call-os-specific
+END
+shell-tools.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3474/java/server/trunk/test/scripts/shell-tools.sh
+END

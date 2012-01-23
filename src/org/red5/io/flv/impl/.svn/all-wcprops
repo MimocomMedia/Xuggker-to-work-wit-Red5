@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4283/java/server/trunk/src/org/red5/io/flv/impl
+END
+FLVMetaData_Template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1564/java/server/trunk/src/org/red5/io/flv/impl/FLVMetaData_Template.xml
+END
+FLVWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4283/java/server/trunk/src/org/red5/io/flv/impl/FLVWriter.java
+END
+FLVMetaData.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1564/java/server/trunk/src/org/red5/io/flv/impl/FLVMetaData.xsd
+END
+FLV.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/flv/impl/FLV.java
+END
+FLVService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/flv/impl/FLVService.java
+END
+FLVReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/flv/impl/FLVReader.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/flv/impl/Tag.java
+END

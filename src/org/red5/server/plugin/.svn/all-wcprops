@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/plugin
+END
+PluginLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4112/java/server/trunk/src/org/red5/server/plugin/PluginLauncher.java
+END
+PluginRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3895/java/server/trunk/src/org/red5/server/plugin/PluginRegistry.java
+END
+PluginDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/plugin/PluginDescriptor.java
+END
+Red5Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/plugin/Red5Plugin.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/service
+END
+ExternalizableClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3482/java/server/trunk/test/org/red5/server/service/ExternalizableClass.java
+END
+EchoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/service/EchoService.java
+END
+EchoServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/service/EchoServiceTest.java
+END
+RemoteClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3482/java/server/trunk/test/org/red5/server/service/RemoteClass.java
+END
+testcontext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3984/java/server/trunk/test/org/red5/server/service/testcontext.xml
+END
+ConversionUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/service/ConversionUtilsTest.java
+END
+IEchoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/service/IEchoService.java
+END
+ServiceInvokerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/service/ServiceInvokerTest.java
+END

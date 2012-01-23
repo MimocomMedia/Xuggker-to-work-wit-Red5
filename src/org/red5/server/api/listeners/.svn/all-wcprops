@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/listeners
+END
+IScopeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/listeners/IScopeListener.java
+END
+IConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/listeners/IConnectionListener.java
+END

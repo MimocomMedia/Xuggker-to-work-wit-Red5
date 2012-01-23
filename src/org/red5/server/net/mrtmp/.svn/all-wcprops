@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4298/java/server/trunk/src/org/red5/server/net/mrtmp
+END
+EdgeRTMPMinaIoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/EdgeRTMPMinaIoHandler.java
+END
+IMRTMPManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/IMRTMPManager.java
+END
+MRTMPEdgeConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/MRTMPEdgeConnection.java
+END
+OriginMRTMPHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/OriginMRTMPHandler.java
+END
+EdgeRTMPHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4298/java/server/trunk/src/org/red5/server/net/mrtmp/EdgeRTMPHandler.java
+END
+BaseMRTMPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/BaseMRTMPConnection.java
+END
+IMRTMPOriginManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/IMRTMPOriginManager.java
+END
+SimpleMRTMPOriginManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/SimpleMRTMPOriginManager.java
+END
+MRTMPMinaTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/MRTMPMinaTransport.java
+END
+EdgeMRTMPHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/EdgeMRTMPHandler.java
+END
+MRTMPPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/MRTMPPacket.java
+END
+MRTMPOriginConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/MRTMPOriginConnection.java
+END
+IMRTMPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/IMRTMPConnection.java
+END
+IMRTMPEdgeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/IMRTMPEdgeManager.java
+END
+SimpleMRTMPEdgeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/SimpleMRTMPEdgeManager.java
+END
+EdgeRTMPMinaConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/EdgeRTMPMinaConnection.java
+END
+MRTMPClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/mrtmp/MRTMPClient.java
+END

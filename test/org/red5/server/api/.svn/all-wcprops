@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4289/java/server/trunk/test/org/red5/server/api
+END
+TestConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4289/java/server/trunk/test/org/red5/server/api/TestConnection.java
+END
+ServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/api/ServiceTest.java
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3578/java/server/trunk/test/org/red5/server/api/context.xml
+END
+ScopeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/api/ScopeTest.java
+END
+BaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/api/BaseTest.java
+END
+SharedObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/api/SharedObjectTest.java
+END

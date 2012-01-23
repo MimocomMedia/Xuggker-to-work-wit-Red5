@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages
+END
+AsyncMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages/AsyncMessage.java
+END
+AsyncMessageExt.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3999/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages/AsyncMessageExt.java
+END
+CommandMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages/CommandMessage.java
+END
+CommandMessageExt.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3999/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages/CommandMessageExt.java
+END
+AuthenticationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages/AuthenticationMessage.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages/Message.java
+END
+AbstractMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages/AbstractMessage.java
+END
+AcknowledgeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages/AcknowledgeMessage.java
+END
+AcknowledgeMessageExt.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3999/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages/AcknowledgeMessageExt.java
+END
+RemotingMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages/RemotingMessage.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages/Constants.java
+END
+ErrorMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/compatibility/flex/messaging/messages/ErrorMessage.java
+END

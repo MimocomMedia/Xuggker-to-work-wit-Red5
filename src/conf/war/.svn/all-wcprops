@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4192/java/server/trunk/src/conf/war
+END
+logback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3627/java/server/trunk/src/conf/war/logback.xml
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3263/java/server/trunk/src/conf/war/context.xml
+END
+build_war.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4192/java/server/trunk/src/conf/war/build_war.properties
+END
+red5-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4192/java/server/trunk/src/conf/war/red5-core.xml
+END
+red5-common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4192/java/server/trunk/src/conf/war/red5-common.xml
+END
+root-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3263/java/server/trunk/src/conf/war/root-context.xml
+END
+red5-web.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3263/java/server/trunk/src/conf/war/red5-web.properties
+END
+beanRefContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3263/java/server/trunk/src/conf/war/beanRefContext.xml
+END
+defaultContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3627/java/server/trunk/src/conf/war/defaultContext.xml
+END
+red5.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3627/java/server/trunk/src/conf/war/red5.properties
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3263/java/server/trunk/src/conf/war/README.txt
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3627/java/server/trunk/src/conf/war/web.xml
+END
+root-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3627/java/server/trunk/src/conf/war/root-web.xml
+END

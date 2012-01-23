@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans
+END
+RTMPMinaTransportMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/RTMPMinaTransportMXBean.java
+END
+LoaderMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/LoaderMXBean.java
+END
+RTMPMinaConnectionMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/RTMPMinaConnectionMXBean.java
+END
+ClientRegistryMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/ClientRegistryMXBean.java
+END
+ScopeMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/ScopeMXBean.java
+END
+ContextLoaderMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/ContextLoaderMXBean.java
+END
+ShutdownMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/ShutdownMXBean.java
+END
+QuartzSchedulingServiceMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/QuartzSchedulingServiceMXBean.java
+END
+ClientBroadcastStreamMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/ClientBroadcastStreamMXBean.java
+END
+ClientMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/ClientMXBean.java
+END
+AttributeStoreMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/AttributeStoreMXBean.java
+END
+ContextMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/ContextMXBean.java
+END
+CoreHandlerMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/CoreHandlerMXBean.java
+END
+ConnectionMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/ConnectionMXBean.java
+END
+Red5MXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/Red5MXBean.java
+END
+ApplicationMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/jmx/mxbeans/ApplicationMXBean.java
+END

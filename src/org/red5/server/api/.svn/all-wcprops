@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4304/java/server/trunk/src/org/red5/server/api
+END
+Red5.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4304/java/server/trunk/src/org/red5/server/api/Red5.java
+END
+IScopeAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IScopeAware.java
+END
+ICastingAttributeStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/ICastingAttributeStore.java
+END
+IGlobalScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IGlobalScope.java
+END
+IApplicationLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IApplicationLoader.java
+END
+IScopeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IScopeService.java
+END
+IScopeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IScopeResolver.java
+END
+IConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4289/java/server/trunk/src/org/red5/server/api/IConnection.java
+END
+IServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IServer.java
+END
+IClientRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IClientRegistry.java
+END
+IScopeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IScopeHandler.java
+END
+IApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IApplicationContext.java
+END
+IScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IScope.java
+END
+IBasicScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IBasicScope.java
+END
+IMappingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IMappingStrategy.java
+END
+IClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4289/java/server/trunk/src/org/red5/server/api/IClient.java
+END
+ICoreObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/ICoreObject.java
+END
+IAttributeStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IAttributeStore.java
+END
+ScopeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/ScopeUtils.java
+END
+IContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/IContext.java
+END

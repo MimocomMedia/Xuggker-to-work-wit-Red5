@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4268/java/server/trunk/plugins
+END
+jasper-el-6.0.32.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4232/java/server/trunk/plugins/jasper-el-6.0.32.jar
+END
+tomcat-juli-slf4j-1.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4160/java/server/trunk/plugins/tomcat-juli-slf4j-1.5.0.jar
+END
+jasper-6.0.32.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4232/java/server/trunk/plugins/jasper-6.0.32.jar
+END
+tomcat-coyote-6.0.32.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4232/java/server/trunk/plugins/tomcat-coyote-6.0.32.jar
+END
+jasper-jdt-6.0.29.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4232/java/server/trunk/plugins/jasper-jdt-6.0.29.jar
+END
+catalina-6.0.32.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4232/java/server/trunk/plugins/catalina-6.0.32.jar
+END
+tomcatplugin-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4268/java/server/trunk/plugins/tomcatplugin-1.1.jar
+END

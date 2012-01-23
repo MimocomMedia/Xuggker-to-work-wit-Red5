@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/persistence
+END
+PersistenceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/persistence/PersistenceUtils.java
+END
+IPersistable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/persistence/IPersistable.java
+END
+IPersistenceStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/persistence/IPersistenceStore.java
+END

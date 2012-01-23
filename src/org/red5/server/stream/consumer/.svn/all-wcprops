@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4271/java/server/trunk/src/org/red5/server/stream/consumer
+END
+FileConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4271/java/server/trunk/src/org/red5/server/stream/consumer/FileConsumer.java
+END
+ConnectionConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/stream/consumer/ConnectionConsumer.java
+END

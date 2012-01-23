@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/util
+END
+ServerDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/util/ServerDetector.java
+END
+PropertyConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/util/PropertyConverter.java
+END
+HttpConnectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/util/HttpConnectionUtil.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/util/FileUtil.java
+END

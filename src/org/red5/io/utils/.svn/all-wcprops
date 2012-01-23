@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/utils
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/utils/ArrayUtils.java
+END
+XMLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/utils/XMLUtils.java
+END
+ObjectMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/utils/ObjectMap.java
+END
+Stax2DomBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/utils/Stax2DomBuilder.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/utils/IOUtils.java
+END
+RandomGUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/utils/RandomGUID.java
+END
+HexDump.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/utils/HexDump.java
+END
+BufferUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/utils/BufferUtils.java
+END
+HexCharset.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/utils/HexCharset.java
+END
+DOM2Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/utils/DOM2Writer.java
+END

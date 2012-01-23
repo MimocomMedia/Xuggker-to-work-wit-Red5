@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4300/java/server/trunk/src/org/red5/io/object
+END
+Input.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/Input.java
+END
+UnsignedByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/UnsignedByte.java
+END
+Output.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/Output.java
+END
+Flag.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/Flag.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/Serializer.java
+END
+ICustomSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/ICustomSerializable.java
+END
+Deserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4300/java/server/trunk/src/org/red5/io/object/Deserializer.java
+END
+UnsignedNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/UnsignedNumber.java
+END
+RecordSetPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/RecordSetPage.java
+END
+UnsignedInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/UnsignedInt.java
+END
+BaseInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/BaseInput.java
+END
+RecordSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/RecordSet.java
+END
+BaseOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/BaseOutput.java
+END
+UnsignedShort.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/UnsignedShort.java
+END
+UnsignedLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/UnsignedLong.java
+END
+DataTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/object/DataTypes.java
+END

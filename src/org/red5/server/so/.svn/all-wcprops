@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4303/java/server/trunk/src/org/red5/server/so
+END
+SharedObjectEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/so/SharedObjectEvent.java
+END
+FlexSharedObjectMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/so/FlexSharedObjectMessage.java
+END
+SharedObjectMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4302/java/server/trunk/src/org/red5/server/so/SharedObjectMessage.java
+END
+SharedObjectScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4303/java/server/trunk/src/org/red5/server/so/SharedObjectScope.java
+END
+ISharedObjectEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/so/ISharedObjectEvent.java
+END
+ISharedObjectMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/so/ISharedObjectMessage.java
+END
+ClientSharedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/so/ClientSharedObject.java
+END
+SharedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4302/java/server/trunk/src/org/red5/server/so/SharedObject.java
+END
+SharedObjectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4283/java/server/trunk/src/org/red5/server/so/SharedObjectService.java
+END

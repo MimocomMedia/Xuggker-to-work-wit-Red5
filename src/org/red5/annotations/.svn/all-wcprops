@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/annotations
+END
+RemoteClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/annotations/RemoteClass.java
+END
+Anonymous.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/annotations/Anonymous.java
+END
+DeclareProtected.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/annotations/DeclareProtected.java
+END
+DeclarePrivate.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/annotations/DeclarePrivate.java
+END
+DontSerialize.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/annotations/DontSerialize.java
+END

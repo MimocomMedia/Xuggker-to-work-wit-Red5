@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4290/java/server/trunk/src/org/red5/server/stream/codec
+END
+AudioCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/stream/codec/AudioCodec.java
+END
+AVCVideo.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4290/java/server/trunk/src/org/red5/server/stream/codec/AVCVideo.java
+END
+VideoCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/stream/codec/VideoCodec.java
+END
+StreamCodecInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/stream/codec/StreamCodecInfo.java
+END
+AACAudio.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4285/java/server/trunk/src/org/red5/server/stream/codec/AACAudio.java
+END
+ScreenVideo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/stream/codec/ScreenVideo.java
+END
+ScreenVideo2.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4276/java/server/trunk/src/org/red5/server/stream/codec/ScreenVideo2.java
+END
+SorensonVideo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/stream/codec/SorensonVideo.java
+END

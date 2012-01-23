@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/logging
+END
+ContextLoggingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/logging/ContextLoggingListener.java
+END
+DerbyLogInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/logging/DerbyLogInterceptor.java
+END
+Red5LoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/logging/Red5LoggerFactory.java
+END
+LoggerContextFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/logging/LoggerContextFilter.java
+END
+W3CAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/logging/W3CAppender.java
+END
+LoggingContextSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/logging/LoggingContextSelector.java
+END

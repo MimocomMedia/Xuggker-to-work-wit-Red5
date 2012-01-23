@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4256/java/server/trunk/test/fixtures
+END
+sample.mp4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3663/java/server/trunk/test/fixtures/sample.mp4
+END
+test_cue.flv
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3140/java/server/trunk/test/fixtures/test_cue.flv
+END
+sample.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3663/java/server/trunk/test/fixtures/sample.m4a
+END
+test_cue1.flv
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4256/java/server/trunk/test/fixtures/test_cue1.flv
+END
+red5-selftest.swf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3502/java/server/trunk/test/fixtures/red5-selftest.swf
+END
+test_cue3.flv
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3140/java/server/trunk/test/fixtures/test_cue3.flv
+END
+test.flv
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4256/java/server/trunk/test/fixtures/test.flv
+END
+CuePointNavPointTest.flv
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3140/java/server/trunk/test/fixtures/CuePointNavPointTest.flv
+END
+CuePointTest.flv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3140/java/server/trunk/test/fixtures/CuePointTest.flv
+END

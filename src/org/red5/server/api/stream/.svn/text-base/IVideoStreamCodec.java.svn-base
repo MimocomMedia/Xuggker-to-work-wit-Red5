@@ -1,0 +1,108 @@
+package org.red5.server.api.stream;
+
+/*
+ * RED5 Open Source Flash Server - http://code.google.com/p/red5/
+ * 
+ * Copyright (c) 2006-2011 by respective authors (see below). All rights reserved.
+ * 
+ * This library is free software; you can redistribute it and/or modify it under the 
+ * terms of the GNU Lesser General Public License as published by the Free Software 
+ * Foundation; either version 2.1 of the License, or (at your option) any later 
+ * version. 
+ * 
+ * This library is distributed in the hope that it will be useful, but WITHOUT ANY 
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A 
+ * PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License along 
+ * with this library; if not, write to the Free Software Foundation, Inc., 
+ * 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA 
+ */
+
+import org.apache.mina.core.buffer.IoBuffer;
+
+/**
+ * Represents a Video codec and its associated decoder configuration.
+ */
+public interface IVideoStreamCodec {
+
+	/**
+	 * FLV frame marker constant
+	 */
+	static final byte FLV_FRAME_KEY = 0x10;
+
+	/**
+	 * @return the name of the video codec.
+	 */
+	public String getName();
+
+	/**
+	 * Reset the codec to its initial state.
+	 */
+	public void reset();
+
+	/**
+	 * Check if the codec supports frame dropping.
+	 * @return if the codec supports frame dropping.
+	 */
+	public boolean canDropFrames();
+
+	/**
+	 * Returns true if the codec knows how to handle the passed
+	 * stream data.
+	 * @param data some sample data to see if this codec can handle it.
+	 * @return can this code handle the data.
+	 */
+	public boolean canHandleData(IoBuffer data);
+
+	/**
+	 * Update the state of the codec with the passed data.
+	 * @param data data to tell the codec we're adding
+	 * @return true for success. false for error.
+	 */
+	public boolean addData(IoBuffer data);
+
+	/**
+	 * @return the data for a keyframe.
+	 */
+	public IoBuffer getKeyframe();
+
+	/**
+	 * Returns information used to configure the decoder.
+	 * 
+	 * @return the data for decoder setup.
+	 */
+	public IoBuffer getDecoderConfiguration();
+
+	/**
+	 * Holder for video frame data.
+	 */
+	public final static class FrameData {
+
+		private IoBuffer frame;
+
+		/**
+		 * Makes a copy of the incoming bytes and places them in an IoBuffer. No flip or rewind is performed on the source data.
+		 * 
+		 * @param data
+		 */
+		public void setData(IoBuffer data) {
+			if (frame == null) {
+				frame = IoBuffer.allocate(data.limit());
+			} else {
+				frame.clear();
+				frame.free();
+				frame = IoBuffer.allocate(data.limit());
+			}
+			byte[] buf = new byte[frame.limit()];
+			data.get(buf);
+			frame.put(buf).flip();
+		}
+
+		public IoBuffer getFrame() {
+			return frame == null ? null : frame.asReadOnlyBuffer();
+		}
+
+	}
+
+}

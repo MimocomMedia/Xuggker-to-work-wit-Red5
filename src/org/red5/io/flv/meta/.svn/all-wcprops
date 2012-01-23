@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4293/java/server/trunk/src/org/red5/io/flv/meta
+END
+IMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/flv/meta/IMeta.java
+END
+MetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/flv/meta/MetaData.java
+END
+IMetaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/flv/meta/IMetaService.java
+END
+MetaCue.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/flv/meta/MetaCue.java
+END
+MetaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4293/java/server/trunk/src/org/red5/io/flv/meta/MetaService.java
+END
+ICueType.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/flv/meta/ICueType.java
+END
+IMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/flv/meta/IMetaData.java
+END
+IMetaCue.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/flv/meta/IMetaCue.java
+END

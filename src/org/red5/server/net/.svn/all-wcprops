@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4303/java/server/trunk/src/org/red5/server/net
+END
+IConnectionEventQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/IConnectionEventQueue.java
+END
+IHandshake.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/IHandshake.java
+END

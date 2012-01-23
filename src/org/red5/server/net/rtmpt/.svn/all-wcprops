@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4298/java/server/trunk/src/org/red5/server/net/rtmpt
+END
+RTMPTClientConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmpt/RTMPTClientConnector.java
+END
+BaseRTMPTConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmpt/BaseRTMPTConnection.java
+END
+RTMPTHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4298/java/server/trunk/src/org/red5/server/net/rtmpt/RTMPTHandler.java
+END
+RTMPTClientConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmpt/RTMPTClientConnection.java
+END
+RTMPTClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmpt/RTMPTClient.java
+END
+RTMPTConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4298/java/server/trunk/src/org/red5/server/net/rtmpt/RTMPTConnection.java
+END
+RTMPTServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4298/java/server/trunk/src/org/red5/server/net/rtmpt/RTMPTServlet.java
+END

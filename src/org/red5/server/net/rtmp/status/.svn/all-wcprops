@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmp/status
+END
+StatusCodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmp/status/StatusCodes.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmp/status/Status.java
+END
+StatusObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmp/status/StatusObject.java
+END
+StatusObjectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmp/status/StatusObjectService.java
+END
+RuntimeStatusObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/net/rtmp/status/RuntimeStatusObject.java
+END

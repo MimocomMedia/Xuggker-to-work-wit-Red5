@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/classloading
+END
+ClassLoaderBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/classloading/ClassLoaderBuilder.java
+END
+ChildFirstClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/classloading/ChildFirstClassLoader.java
+END
+QuartzClassLoadHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/classloading/QuartzClassLoadHelper.java
+END

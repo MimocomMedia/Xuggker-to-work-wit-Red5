@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/statistics
+END
+IStreamStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/statistics/IStreamStatistics.java
+END
+IClientBroadcastStreamStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/statistics/IClientBroadcastStreamStatistics.java
+END
+ISharedObjectStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/statistics/ISharedObjectStatistics.java
+END
+IStatisticsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/statistics/IStatisticsService.java
+END
+IPlaylistSubscriberStreamStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/statistics/IPlaylistSubscriberStreamStatistics.java
+END
+IScopeStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/statistics/IScopeStatistics.java
+END
+IStatisticsBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/statistics/IStatisticsBase.java
+END

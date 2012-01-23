@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4302/java/server/trunk/src/conf
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4139/java/server/trunk/src/conf/ehcache.xml
+END
+quartz.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4135/java/server/trunk/src/conf/quartz.properties
+END
+red5.globals
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3263/java/server/trunk/src/conf/red5.globals
+END
+jee-container.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4241/java/server/trunk/src/conf/jee-container.xml
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3356/java/server/trunk/src/conf/context.xml
+END
+red5-origin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3409/java/server/trunk/src/conf/red5-origin.xml
+END
+red5-common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4287/java/server/trunk/src/conf/red5-common.xml
+END
+red5-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4302/java/server/trunk/src/conf/red5-core.xml
+END
+tomcat-users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3263/java/server/trunk/src/conf/tomcat-users.xml
+END
+red5-edge-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3409/java/server/trunk/src/conf/red5-edge-core.xml
+END
+red5.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4289/java/server/trunk/src/conf/red5.properties
+END
+truststore.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3263/java/server/trunk/src/conf/truststore.jmx
+END
+realm.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3263/java/server/trunk/src/conf/realm.properties
+END
+no-jee-container.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4160/java/server/trunk/src/conf/no-jee-container.xml
+END
+access.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3263/java/server/trunk/src/conf/access.properties
+END
+password.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3263/java/server/trunk/src/conf/password.properties
+END
+red5.policy
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3925/java/server/trunk/src/conf/red5.policy
+END
+red5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4127/java/server/trunk/src/conf/red5.xml
+END
+red5-edge.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3409/java/server/trunk/src/conf/red5-edge.xml
+END
+logback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4281/java/server/trunk/src/conf/logback.xml
+END
+build_standalone.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3263/java/server/trunk/src/conf/build_standalone.properties
+END
+keystore.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3263/java/server/trunk/src/conf/keystore.jmx
+END
+keystore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3263/java/server/trunk/src/conf/keystore
+END
+red5-origin-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3409/java/server/trunk/src/conf/red5-origin-core.xml
+END
+catalina.policy
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3506/java/server/trunk/src/conf/catalina.policy
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4095/java/server/trunk/src/conf/web.xml
+END

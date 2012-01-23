@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4300/java/server/trunk/test/org/red5/server
+END
+DummyClientRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/DummyClientRegistry.java
+END
+ServerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/ServerTest.java
+END
+ClientRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/ClientRegistryTest.java
+END
+FilenameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/FilenameGenerator.java
+END
+ScopeTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3984/java/server/trunk/test/org/red5/server/ScopeTest.xml
+END
+ScopeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/ScopeTest.java
+END
+DummyClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/DummyClient.java
+END
+AtomicCounterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4269/java/server/trunk/test/org/red5/server/AtomicCounterTest.java
+END

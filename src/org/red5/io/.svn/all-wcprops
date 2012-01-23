@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4300/java/server/trunk/src/org/red5/io
+END
+IStreamableFileFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/IStreamableFileFactory.java
+END
+ITagWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/ITagWriter.java
+END
+IoConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/IoConstants.java
+END
+ITag.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/ITag.java
+END
+IKeyFrameMetaCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/IKeyFrameMetaCache.java
+END
+StreamableFileFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/StreamableFileFactory.java
+END
+ITagReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/ITagReader.java
+END
+IStreamableFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/IStreamableFile.java
+END
+IStreamableFileService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/IStreamableFileService.java
+END
+CachingFileKeyFrameMetaCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/CachingFileKeyFrameMetaCache.java
+END
+BufferType.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/BufferType.java
+END
+BaseStreamableFileService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/BaseStreamableFileService.java
+END
+FileKeyFrameMetaCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/FileKeyFrameMetaCache.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/plugin
+END
+IRed5PluginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/plugin/IRed5PluginHandler.java
+END
+IRed5Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/server/api/plugin/IRed5Plugin.java
+END

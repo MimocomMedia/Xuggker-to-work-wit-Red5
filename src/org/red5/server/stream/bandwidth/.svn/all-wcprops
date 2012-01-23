@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4292/java/server/trunk/src/org/red5/server/stream/bandwidth
+END
+ServerClientDetection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4292/java/server/trunk/src/org/red5/server/stream/bandwidth/ServerClientDetection.java
+END
+ClientServerDetection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4289/java/server/trunk/src/org/red5/server/stream/bandwidth/ClientServerDetection.java
+END
+IBandwidthDetection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4289/java/server/trunk/src/org/red5/server/stream/bandwidth/IBandwidthDetection.java
+END

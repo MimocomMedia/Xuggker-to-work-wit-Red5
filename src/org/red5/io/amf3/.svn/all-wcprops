@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4300/java/server/trunk/src/org/red5/io/amf3
+END
+Input.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4300/java/server/trunk/src/org/red5/io/amf3/Input.java
+END
+Output.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/amf3/Output.java
+END
+IExternalizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/amf3/IExternalizable.java
+END
+IDataInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/amf3/IDataInput.java
+END
+ByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/amf3/ByteArray.java
+END
+IDataOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/amf3/IDataOutput.java
+END
+AMF3.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/amf3/AMF3.java
+END
+DataInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4276/java/server/trunk/src/org/red5/io/amf3/DataInput.java
+END
+DataOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4269/java/server/trunk/src/org/red5/io/amf3/DataOutput.java
+END
